@@ -1,3 +1,5 @@
+From http://cyber-dojo.org:
+
 Given a positive integer number (eg 42) determine
 its Roman numeral representation as a String (eg "XLII").
 
@@ -22,3 +24,5 @@ Examples:
 2008 -> "MMVIII" (2000 -> "MM" + 8 -> "VIII")
   99 -> "XCIX"   (90 -> "XC" + 9 -> "IX")
   47 -> "XLVII"  (40 -> "XL" + 7 -> "VII")
+
+Alternative http://rubyquiz.com/quiz22.html
